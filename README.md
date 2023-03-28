@@ -2,7 +2,7 @@
 
 #Check out Presentation Explanation 💻
 
-[![PPT](https://prezi.com/view/X3CuGLqYKTzl6yW49HmK/)
+[PPT Here](https://prezi.com/view/X3CuGLqYKTzl6yW49HmK/)
 
 
 ## Project Description 🚀
@@ -15,9 +15,9 @@ To set up the wifi captive tunneling system, I used MyPublicWiFi software which 
 Through this project, I gained experience in networking, server setup, and Flask development. I was able to efficiently execute the project in just 2 hours, demonstrating our skills in setting up and deploying Flask architecture.
 
 ## Links 🔗
-[![LinkTree](https://linktr.ee/anuj_dwivedi)
-[![LinkedIn](https://www.linkedin.com/in/anuj-dwivedi-1352831b1/)
-[![Instagram](https://www.instagram.com/anuj_dwvd_0/)
+[LinkTree](https://linktr.ee/anuj_dwivedi)
+[LinkedIn](https://www.linkedin.com/in/anuj-dwivedi-1352831b1/)
+[Instagram](https://www.instagram.com/anuj_dwvd_0/)
 
 
 ## License  📜
